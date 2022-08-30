@@ -1,3 +1,6 @@
+# Giovana de Oliveira Fernandes
+## giovana.fernandes2@fatec.sp.gov.br
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função exlcuirElemento
